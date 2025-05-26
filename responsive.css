@@ -1,0 +1,315 @@
+@media(max-width: 1030px){
+    /* Home css */
+    .home .home-banner-1,
+    .home .home-banner-2,
+    .home .home-banner-3 {
+         background-position: 65% center;
+         min-height: 550px;
+    }
+
+    .home .home-banner .home-banner-text{
+        transform: translate(-80%, -50%);
+    }
+
+    /* Offer css */
+    .offers .offer-box .offer-info .heading-bigger{
+            font-size: 3rem;
+    }
+
+    /* Special css */
+    .special .countdown-container .countdown-counter li{
+        padding: 1.5rem 1rem;
+    }
+}
+
+@media(max-width:991px){
+    /* Home css */
+    .home .home-banner-1,
+    .home .home-banner-2,
+    .home .home-banner-3 {
+         background-position: 65% center;
+         min-height: 550px;
+    }
+    .home .home-banner .home-banner-text{
+        transform: translate(-60%, -50%);
+    }
+
+    /* Special css */
+    .special .countdown-container{
+    padding-top: 1rem;
+    padding-bottom: 5rem;
+    }
+
+    /* Special css */
+    .special .countdown-container .countdown-counter li{
+        padding-top: 1rem;
+        padding-bottom: 5rem;
+
+    }
+}
+
+@media(max-width: 412px){
+    /* Home css */
+    .home .home-banner-1,
+    .home .home-banner-2,
+    .home .home-banner-3{
+        background-position: 55% center;
+        min-height: 600px;
+    }
+    .home .home-banner .home-banner-text-1{
+        text-align: center;
+        width: 100%;
+        transform: translate(-50%, -50%);
+    }
+    .home .home-banner .home-banner-text-2{
+        text-align: center;
+        width: 100%;
+        transform: translate(-50%, -50%);
+    }
+    .home .home-banner .home-banner-text-3{
+        text-align: center;
+        width: 100%;
+        transform: translate(-50%, -50%);
+    }
+    .home .home-banner .home-banner-text h1{
+        font-size: 3rem;
+    }
+    .home .home-banner .home-banner-text h2{
+        font-size: 1.2rem;
+    }
+
+    .home .home-banner .home-banner-text h2{
+        font-size: 1.2rem;
+    }
+    
+    .home .home-banner .home-banner-text .btn-danger{
+        padding: 0.5rem 1.5rem;
+    }
+    .home .slider-icon{
+        font-size: 2rem;
+    }
+
+    /* product css */
+    .products .up_to_content h2{
+        font-size: 0.75rem;
+    }
+
+    /* special css */
+    .special{
+        padding: 4rem 0;
+    }
+    .special .countdown-container .countdown-counter li{
+        padding: 1rem;
+        width: 20%;
+    }
+
+}
+
+@media(max-width: 330px){
+
+    .home .home-banner .home-banner-text h2{
+        font-size: 1rem;
+ }
+    .home .home-banner-1,
+    .home .home-banner-2,
+    .home .home-banner-3{
+        background-position: 50% center;
+        min-height: 600px;
+    }
+
+    .home .home-banner .home-banner-text-1{
+        text-align: center;
+        width: 25%;
+        transform: translate(-50%, -50%);
+    }
+    .home .home-banner .home-banner-text-2{
+        text-align: center;
+        width: 25%;
+        transform: translate(-50%, -50%);
+    }
+    .home .home-banner .home-banner-text-3{
+        text-align: center;
+        width: 25%;
+        transform: translate(-50%, -50%);
+    }
+}
+
+
+/* INdex */
+@media (min-width: 768px) {
+    .features-container {
+        flex-direction: row;
+        justify-content: space-around; /* Distribute features evenly */
+    }
+}
+
+/* carosel */
+@media (max-width: 768px) {
+    .carousel-item {
+      height: 80vh; /* Reduced height on smaller screens */
+    }
+  
+    .btn-danger {
+      font-size: 0.9em; /* Smaller button text */
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .carousel-item {
+      height: 80vh; /* Further reduced height on very small screens */
+    }
+  
+    .btn-danger {
+      font-size: 0.8em; /* Even smaller button text */
+    }
+  }
+
+  /* testimonial */
+
+  @media (max-width: 768px) {
+    .card {
+        width: 90%; /* Full width on smaller screens */
+    }
+}
+  /* About Us */
+
+  
+@media (min-width: 768px) {
+    .features-container {
+        flex-direction: row;
+        justify-content: space-around; /* Distribute features evenly */
+    }
+}
+
+
+@media (max-width: 600px) {
+    nav ul li {
+        display: block;
+        margin: 0.5rem 0;
+    }
+}
+
+
+/* WWD */
+@media (max-width: 600px) {
+    nav ul li {
+        display: block;
+        margin: 0.5rem 0;
+    }
+}
+
+
+@media handheld, only screen and (max-width: 1024px){
+
+    .black_overlay{
+        height: 500%;
+    }
+    
+    
+    .white_content {	
+    top: 55%;
+    left: 30%;
+    right:30%;
+    
+    }
+    
+    }
+    
+    
+    @media handheld, only screen and (max-width: 660px){
+    
+    .black_overlay{
+        height: 700%;
+    }
+    
+    .white_content {	
+    top: 55%;
+    left: 10%;
+    right:10%;
+    
+    }
+    
+    } 
+    
+    /* Responsive styles */
+    @media (max-width: 768px) {
+        .ser-div1 {
+          width: 100%; /* Stack items on smaller screens */
+        }
+      }
+      
+      @media (max-width: 480px) {
+        .heading-ser {
+          font-size: 1.2em; /* Smaller headings on very small screens */
+        }
+        .read-box {
+          padding: 8px 15px; /* Adjust button padding */
+        }
+      }
+
+      
+@media handheld, only screen and (max-width: 1024px){
+
+    .black_overlay{
+        height: 500%;
+    }
+    
+    
+    .white_content {	
+    top: 55%;
+    left: 30%;
+    right:30%;
+    
+    }
+    
+    }
+    
+    
+    @media handheld, only screen and (max-width: 660px){
+    
+    .black_overlay{
+        height: 700%;
+    }
+    
+    .white_content {	
+    top: 55%;
+    left: 10%;
+    right:10%;
+    
+    }
+    
+    } 
+    /* services */
+    @media (max-width: 600px) {
+        nav ul li {
+            display: block;
+            margin: 0.5rem 0;
+        }
+    }
+
+    
+    /* Responsive Styles  what we do */
+    @media (max-width: 768px) {
+        .quote-form {
+            padding: 8px;
+        }
+    
+        .quote-form input[type="text"],
+        .quote-form input[type="email"] {
+            padding: 6px;
+        }
+    
+        .quote-form button {
+            width: 100%;
+        }
+    }
+
+    /* Responsive Design */
+@media (max-width: 768px) {
+    .footer-links li {
+        display: block;
+        margin: 10px 0;
+    }
+}
+
+   
