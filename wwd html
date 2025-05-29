@@ -1,0 +1,230 @@
+<!-- Hardware Solutions -->
+    <section class="container" id="infrastructure">
+      <h2>Hardware Solutions</h2>
+      <div class="grid">
+          <div class="grid-item">
+              <img src="images/lenovo (1).jpg" alt="Hardware" />
+              <p>Hardware: Desktop / Laptop & Server - Lenovo/HP/Dell</p>
+              <br>
+              <form action="#" method="post" class="quote-form">
+                  <button ><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item"> 
+              <img src="images/apple-logo.jpg" alt="Apple Products" />
+              <br>
+              <br>
+              <p>Apple Products: iPad, MacBook, iMac, iPhone Sales & Service</p>
+              <br>
+              <form action="#" method="post" class="quote-form">
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/mobile-tab.jpeg" alt="Mobile & Tablet" />
+              <p>Mobile & Tablet: APPLE & Samsung</p>
+              <form action="#" method="post" class="quote-form">
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/firewall.jpeg" alt="Network Security" />
+              <p>Firewall, UTM & Network Security Solutions - Sophos & Fortinet</p>
+              <form action="#" method="post" class="quote-form">
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/kodak.png" alt="Document Scanner" />
+              <p>Document Scanner: Fujitsu & Kodak</p>
+              <form action="#" method="post" class="quote-form">
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/peri.jpg" alt="Peripherals" />
+              <p>Peripherals: Printers, Scanners, UPS</p>
+              <form action="#" method="post" class="quote-form">
+                  
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/network-solution.webp" alt="Thin Client" />
+              <p>Thin Client Network Solutions - N-Computing</p>
+              <form action="#" method="post" class="quote-form">
+                 
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/bio.jpg" alt="Attendance System" />
+              <br>
+              <p>Bio Matrix Attendance System - Matrix & eSSL</p>
+              <form action="#" method="post" class="quote-form">
+                  
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/FM.jpg" alt="IT Management" />
+              <br>
+              <br>
+              <p>IT Infrastructure Management - FM Services</p>
+              <form action="#" method="post" class="quote-form">
+                  
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/cisco-1.jfif" alt="Networking Infra" />
+              <p>Networking Infra Solutions - Cisco-link, Aruba, Rucks, Molex</p>
+              <form action="#" method="post" class="quote-form">
+                  
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/ARUBA.png" alt="Wireless Networking" />
+              <p>Wireless Networking & Access Points - Cisco, D-Link, Aruba, Rucks</p>
+              <form action="#" method="post" class="quote-form">
+                  
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/DELL EMC.jfif" alt="Storage Solutions" />
+              <p>Storage & Backup Solutions (NAS & SAN) - QNAP, Synology, Dell-EMC</p>
+              <form action="#" method="post" class="quote-form">
+                
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/IT INFRA.jfif" alt="Assessments" />
+              <p>IT Infrastructure Assessment, Network Assessment, Security Assessment</p>
+              <form action="#" method="post" class="quote-form">
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+      </div>
+  </section>
+<br>
+<br>
+<br>
+<br>
+
+<!-- Software Solutions --> 
+  <section class="container" id="software">
+      <h2>Software Solutions</h2>
+      <div class="grid">
+          <div class="grid-item">
+              <img src="images/ANTI.jpg" alt="Anti-Virus" />
+              <p>Anti-Virus End Point Solutions - Broadcom, Kaspersky, Sophos, Bitdefender, TrendMicro, Seqrite, Quick Heal</p>
+              <form action="#" method="post" class="quote-form">
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/MSoft.jpg" alt="Microsoft Software" />
+              <br>
+              <br>
+              <p>Microsoft Software Solutions: OEM, FPP, CSP Perpetual, O365 & MS Azure</p>
+              <form action="#" method="post" class="quote-form">
+                  
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/autodesk.jfif" alt="Autodesk" />
+              <br>
+              <br>
+              <br>
+              <p>Autodesk: AutoCAD IST 2025 - 2D& 3D, LT, Revit, 3Ds-Max, Maya, AEC, PDMC</p>
+              <form action="#" method="post" class="quote-form">
+                 
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/ADOBE.jpeg" alt="Adobe" />
+              <p>Adobe: Acrobat & CCT All Apps (Photoshop, Illustrator, InDesign Etc.)</p>
+              <form action="#" method="post" class="quote-form">  
+                 <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/Cloud-sol.jfif" alt="Cloud Solutions" />
+              <p>Cloud Solutions: Microsoft Azure, O365 & AWS</p>
+              <form action="#" method="post" class="quote-form">
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/desktop-wallpaper-red-hat-red-hat-linux.jpg" alt="Various Software" />
+              <p>Various Software Solutions: RedHat Linux, PDF solutions Nitro, Figma, Filmora etc.</p>
+              <form action="#" method="post" class="quote-form">
+                 
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/Mailing.webp" alt="Mailing Solutions" />
+              <p>Mailing, Archiving, Bulk mailing & Cloud-based Solutions - Microsoft, Google & Netcore</p>
+              <form action="#" method="post" class="quote-form">
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/What-is-Data-Loss-Prevention-DLP-.jpg" alt="DLP Solutions" />
+              <p>DLP (Data Leakage Prevention/Data Loss Prevention) - McAfee, Broadcom</p>
+              <form action="#" method="post" class="quote-form">
+                  
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/modern-accounting-services.png" alt="Accounting Solutions" />
+              <p>Accounting Solutions - Tally Prime & Accounting on Remote, Accounting on Cloud</p>
+              <form action="#" method="post" class="quote-form">
+                  
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/Payroll-HR-Management.webp" alt="HR & Payroll" />
+              <p>HR & Payroll - E HR, Great HR</p>
+              <form action="#" method="post" class="quote-form">
+                
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/EMS.jpg" alt="Monitoring Software" />
+              <p>Employee Monitoring Software / Tool</p>
+              <form action="#" method="post" class="quote-form">
+                  
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/data recovry.jpg" alt="Data Recovery" />
+              <p>Data Recovery Solutions</p>
+              <form action="#" method="post" class="quote-form">
+                  
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+          <div class="grid-item">
+              <img src="images/VAPT.jpg" alt="Audit Services" />
+              <p>System Audit/Migration Audit/Network Audit/Source Code-VAPT/Website-VAPT/Network-VAPT/Mobile App-VAPT</p>
+              <form action="#" method="post" class="quote-form">
+                  
+                  <button><a href="contact.html">Enquire Now</a></button>
+              </form>
+          </div>
+      </div>
+  </section>
+
+
+</section>
